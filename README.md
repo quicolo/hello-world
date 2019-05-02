@@ -1,3 +1,2 @@
 # hello-world
-Learning Github
-Probando voy, probando vengo...
+Este es el readme de la rama que hemos creado
